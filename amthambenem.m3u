@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Nhóm_kênh", BLV Thần Thông - Thiên Đình TV
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Nhóm_kênh", BLV Ricky - Tam Quốc TV
+https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Nhóm_kênh", BLV Thiên Lôi - Hội Quán TV
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Nhóm_kênh", BLV Phan Mã
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
