@@ -9,3 +9,5 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Hội Quán TV", BLV Phan Chớp
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Xây Con TV", BLV Xây Con
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
