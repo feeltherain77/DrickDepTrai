@@ -19,3 +19,5 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Lương Bổng
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/iPZzPpqfz.png" group-title="Thiên Đình TV", BLV Táo Mèo
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
